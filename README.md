@@ -1,3 +1,9 @@
+> DEPRECATED:
+>
+> THIS REPOSITORY HAS MOVED TO [pokemongo-dev-contrib/pokemongo-json-pokedex](https://github.com/pokemongo-dev-contrib/pokemongo-json-pokedex)
+> 
+> DO NOT FURTHER USE THIS REPOSITORY
+
 # pokemongo-json-pokedex
 
 [![ghit.me](https://ghit.me/badge.svg?repo=BrunnerLivio/pokemongo-json-pokedex)](https://ghit.me/repo/BrunnerLivio/pokemongo-json-pokedex)
