@@ -1,4 +1,4 @@
-> DEPRECATED:
+> :warning: DEPRECATED :warning:
 >
 > THIS REPOSITORY HAS MOVED TO [pokemongo-dev-contrib/pokemongo-json-pokedex](https://github.com/pokemongo-dev-contrib/pokemongo-json-pokedex)
 > 
